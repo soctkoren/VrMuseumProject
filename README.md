@@ -8,6 +8,17 @@
 5. [Conclusion](#conclusion) 
 
 ## Research
+
+My Project will be about how Facebook and Oculus is shaping the way of VR in the future
+
+From my inital research, it seems like the following ways are how Facebook is tackling the VR future
+
+- Social
+- High Immersive Gamse
+- Industry Distruptions
+- Wireless VR / Mobile
+- Future Plans
+
 ## Design
 ## User Test
 ## Project Breakdown
