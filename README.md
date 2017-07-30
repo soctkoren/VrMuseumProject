@@ -44,4 +44,4 @@ From my inital research, it seems like the following ways are how Facebook is ta
 ![ScreenShot](https://github.com/soctkoren/VrMuseumProject/blob/master/docsAssets/step2.png)
 
 	You can play and pause each video by hitting the play button. If the video is loading, The text will state that the video is loading. Also note that the sound from the video will be louder the closer you are and quieter are you are further away.
-![ScreenShot](https://github.com/soctkoren/VrMuseumProject/blob/master/docsAssets/step2.png)
+![ScreenShot](https://github.com/soctkoren/VrMuseumProject/blob/master/docsAssets/step3.png)
