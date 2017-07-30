@@ -3,9 +3,8 @@
 ## Table of Contents
 1. [Research](#research)
 2. [Design](#design)
-3. [User Test](#user-test)
-4. [Project Breakdown](#project-breakdown)
-5. [Conclusion](#conclusion) 
+3. [Project Breakdown](#project-breakdown)
+
 
 ## Research
 
@@ -20,6 +19,7 @@ From my inital research, it seems like the following ways are how Facebook is ta
 	- Oculus Studios: http://oculusstudios.com/
 	- Vive: https://www.vive.com/us/
 - Industry Distruptions
+	- Intel: https://www.youtube.com/watch?v=FRUmc-OSDWg 
 	- Truvision: http://truvisionvr.com/Architecture
 	- Medical: https://medtechboston.medstro.com/blog/2016/05/24/16045/
 	- Automotive: https://gloverparkgroup.app.box.com/s/tcl4lguoqej11630ko6p
@@ -32,7 +32,16 @@ From my inital research, it seems like the following ways are how Facebook is ta
 	- Mixed Reality: https://www.intel.com/content/www/us/en/virtual-reality/virtual-reality-overview.html?cid=sem43700020276045587&intel_term=%2Bmixed+%2Breality&gclid=CjwKCAjwzMbLBRBzEiwAfFz4gdyZl7cYfkO3ZMn9KSMO9rnhsMvHpM8pLDft9OFgc7BVsTD_cJ6INRoCjpoQAvD_BwE&gclsrc=aw.ds
 
 ## Design
-	<img src="../design.jpg"/>
-## User Test
+	<img src="../docsAssets/design.jpg"/>
+	NOTE: I added a middle area to the play field as I didn't account for a start area on the original design.
+
 ## Project Breakdown
-## Conclusion
+	When the use first enters the Vr Museum the are greeted with a welcome canvas.
+	They can go prev and next slides by hitting the prev and next buttons. The instructions mentions that the player can navigate through the map by hitting the green waypoints.
+	<img src="../docsAssets/step1.png"/>
+
+	Each station has a header canvas, and image that quickly shows what the station is about and a video on the topic.
+	<img src="../docsAssets/step2.png"/>
+
+	You can play and pause each video by hitting the play button. If the video is loading, The text will state that the video is loading. Also note that the sound from the video will be louder the closer you are and quieter are you are further away.
+	<img src="../docsAssets/step3.png"/>
